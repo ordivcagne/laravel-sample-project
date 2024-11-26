@@ -64,3 +64,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## New Feature: Intelligent Search
+
+The Intelligent Search feature enhances user experience by AI-powered algorithms to deliver highly relevant search results.
+
+- Real-time filtering as users type.
+- Context-aware suggestions based on user behavior.
+- Advanced filtering options with natural language processing.
+
